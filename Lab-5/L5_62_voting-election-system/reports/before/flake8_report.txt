@@ -1,0 +1,30 @@
+election_system.py:1:1: F401 'os' imported but unused
+election_system.py:2:1: F401 'sys' imported but unused
+election_system.py:3:1: F401 'json' imported but unused
+election_system.py:15:1: E302 expected 2 blank lines, found 1
+election_system.py:17:80: E501 line too long (109 > 79 characters)
+election_system.py:21:1: E302 expected 2 blank lines, found 1
+election_system.py:26:1: E302 expected 2 blank lines, found 1
+election_system.py:32:5: F841 local variable 'receipt' is assigned to but never used
+election_system.py:36:1: E302 expected 2 blank lines, found 1
+election_system.py:37:16: W291 trailing whitespace
+election_system.py:40:18: W291 trailing whitespace
+election_system.py:42:1: E302 expected 2 blank lines, found 1
+election_system.py:45:5: F841 local variable 'total' is assigned to but never used
+election_system.py:51:1: E302 expected 2 blank lines, found 1
+election_system.py:52:54: W291 trailing whitespace
+election_system.py:54:1: E302 expected 2 blank lines, found 1
+election_system.py:55:5: F841 local variable 'now' is assigned to but never used
+election_system.py:58:1: E302 expected 2 blank lines, found 1
+election_system.py:65:1: E302 expected 2 blank lines, found 1
+election_system.py:69:35: W291 trailing whitespace
+election_system.py:71:1: E302 expected 2 blank lines, found 1
+election_system.py:74:1: E302 expected 2 blank lines, found 1
+election_system.py:82:13: E722 do not use bare 'except'
+election_system.py:86:1: E302 expected 2 blank lines, found 1
+election_system.py:92:80: E501 line too long (85 > 79 characters)
+election_system.py:93:80: E501 line too long (91 > 79 characters)
+election_system.py:94:80: E501 line too long (84 > 79 characters)
+election_system.py:95:80: E501 line too long (91 > 79 characters)
+election_system.py:96:80: E501 line too long (115 > 79 characters)
+election_system.py:104:1: E305 expected 2 blank lines after class or function definition, found 1
